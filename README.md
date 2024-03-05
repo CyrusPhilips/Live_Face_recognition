@@ -9,4 +9,5 @@ Comparison of each frame with a reference image for face matching.
 Real-time display of match status (Match/No Match) on the video feed.
 This project serves as a simple demonstration of integrating face recognition capabilities into Python applications using readily available libraries. It can be used as a foundation for building more sophisticated face recognition systems or as a learning resource for understanding the basics of face recognition algorithms.
 
-# Please do read the readmefile.txt
+main.py is code file
+# Please read the readmefile.txt
